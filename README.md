@@ -67,4 +67,4 @@ This project has the following folder structure:
 
 ## Conclusion
 
-Thank you for choosing to use this assessment project! We hope that you find it useful and informative, and that it helps you to showcase your skills in Laravel, Vue.js, and Inertia. If you have any questions or concerns, please do not hesitate to contact us.
+Hope that you find it useful and informative, and that it helps you to showcase your skills in Laravel, Vue.js, and Inertia. If you have any questions or concerns, please do not hesitate to contact me.
