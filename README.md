@@ -41,10 +41,16 @@ To install this project, please follow these steps:
    php artisan db:seed
    ```
 
-9. Run the following command to start the development server:
+9. Run the following command to start laravel in the development server:
 
    ```
    php artisan serve
+   ```
+   
+10. Open another terminal and run the following command to start using inertia/vue/vite in the development server:
+
+   ```
+   npm run dev
    ```
 
 ## Technologies Used
